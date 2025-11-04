@@ -1,0 +1,1 @@
+# EventMate-AI-Based-Event-Planner-and-Scheduler
