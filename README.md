@@ -1,4 +1,4 @@
-# EventMate-AI-Based-Event-Planner-and-Scheduler
+# Event Scheduler UI
 
 A modern React-based event management application with a beautiful and responsive user interface.
 
